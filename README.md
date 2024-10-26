@@ -2,6 +2,8 @@ A NextJS14 app that uses shadCN
 
 It uses Cognito's hosted UI for auth
 
+Auth is done on the client side and server side too, check the tags for either commits
+
 In `Amazon Cognito -> User pools -> <Your user pool> -> App integration -> <your app client> -> Hosted UI`,
 
 make sure sure you have the following settings set up correctly:
